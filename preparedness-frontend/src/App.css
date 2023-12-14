@@ -1,0 +1,35 @@
+body {
+    background-image: url(./assets/background-image.jpeg);
+    background-size: cover;
+}
+
+.entire-content h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+.input label {
+    font-size: 35px;
+    color: white;
+}
+
+.input Input {
+font-size: 18px;
+width: 50%;
+margin: auto;
+/* padding: 6px 12px; */
+}
+
+.form {
+    text-align: center;
+}
+
+button {
+background-color:#0DCAF0;
+width: 100px;
+padding: 10px;
+margin: 20px 10px 0px;
+display: inline-block;
+}
+
